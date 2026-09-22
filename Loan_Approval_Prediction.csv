@@ -1,0 +1,21 @@
+Customer ID,Income Level,Credit Score,Employment,Existing Loan,Property,Loan Approved
+1,High,Excellent,Permanent,No,Own,Yes
+2,Low,Poor,Temporary,Yes,Rent,No
+3,Medium,Good,Permanent,No,Own,Yes
+4,Medium,Fair,Self-Employed,Yes,Rent,No
+5,High,Good,Permanent,No,Own,Yes
+6,Low,Fair,Temporary,Yes,Rent,No
+7,High,Excellent,Self-Employed,No,Own,Yes
+8,Medium,Good,Permanent,Yes,Own,Yes
+9,Low,Poor,Temporary,Yes,Rent,No
+10,Medium,Excellent,Permanent,No,Own,Yes
+11,High,Fair,Self-Employed,No,Own,Yes
+12,Low,Good,Permanent,Yes,Rent,Yes
+13,Medium,Fair,Permanent,No,Rent,Yes
+14,High,Good,Self-Employed,Yes,Own,Yes
+15,Low,Poor,Temporary,No,Rent,No
+16,Medium,Excellent,Permanent,No,Own,Yes
+17,High,Excellent,Permanent,Yes,Own,Yes
+18,Low,Fair,Self-Employed,Yes,Rent,No
+19,Medium,Good,Temporary,No,Rent,Yes
+20,High,Excellent,Self-Employed,Yes,Own,Yes
